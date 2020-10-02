@@ -1,0 +1,8 @@
+apiEngine/model/requests/RemoveBookRequest.class
+apiEngine/model/requests/ISBN.class
+apiEngine/model/requests/AuthorizationRequest.class
+apiEngine/model/response/Book.class
+apiEngine/model/response/Books.class
+apiEngine/model/response/UserAccount.class
+apiEngine/model/requests/AddBooksRequest.class
+apiEngine/model/response/Token.class
